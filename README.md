@@ -1,4 +1,5 @@
 # ES-DE Android App Covers
+![Collage of high-resolution modern Android app covers for ES-DE](https://github.com/nahnotnathan/esde-android-covers/blob/main/.github/header-alpha.png?raw=true)
 
 Welcome to the ES-DE Android App Cover repository! This repository provides a collection of over 200 high-quality covers for the most frequently used apps among Android gamers. These include high-resolution covers in PNG format for every major Android emulator, video streaming service, audio streaming service, gaming streaming service, and most commonly used utilities like Browsers, VPNs and File Explorers.
 
