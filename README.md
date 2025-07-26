@@ -17,12 +17,8 @@ To start using these covers, simply download the images you want and drop them i
 - **Curated Collection:** Don't dig through mountains of Steam Grid trash. This collection has everything you need and nothing you don't
 - **Free to Use:** All covers in this repository are completely free for personal use.
 
-## Roadmap
-- **Square Covers:** I prefer the 720P banner format personally, but the beauty of ES-DE is you can customize it to your liking. 1:1 versions coming soon!
-- **Android Games:** This will take awhile to complete, but I'm committed to eventually adding a complete library of covers for the best games available on Android.
-- **Screenshots & Marquees:** Lower priority, but I know some folks love the miximage format. Will get to this eventually!
 
-## Feedback and Request
+## Feedback and Requests
 If you have any questions, suggestions, or need support, please don't hesitate to open an issue in this repository.
 
 Got a request? Happy to fulfill any reasonable requests from the community!  Just make sure the app meets the threshold of being useful for handheld gamers on Android.
