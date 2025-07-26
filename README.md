@@ -27,6 +27,11 @@ If you have any questions, suggestions, or need support, please don't hesitate t
 
 Got a request? Happy to fulfill any reasonable requests from the community!  Just make sure the app meets the threshold of being useful for handheld gamers on Android.
 
+## Why Banners?
+Android apps do not have physical releases so much thought was put into which aspect ratio and resolution to use when creating these assets. The 1920x720 Banner standard was ultimately chosen because it shares the Aspect Ratio requirement of the Featured Image on Google Play and the Resolution Requirement of the TV Banner required for publishing to Android TV.
+
+The Steam Grid format was considered, but ultimately rejected for being too low resolution. Though certainly high enough resoultion for handhelds, it does not provide enough headroom for 4K and 8K displays in the future.
+
 ## Acknowledgements
 This project is a labor of love born out of my belief that gaming on Android can and should be better. I would like to extend my heartfelt gratitude to the following contributors and community who make this hobby great:
 
