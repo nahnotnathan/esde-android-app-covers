@@ -10,7 +10,7 @@ To start using these covers, simply download the images you want and drop them i
 
 ``` ~/ES-DE/downloaded_media/androidapps/covers ```
 
-For most situations, this is the only step necessary. Check out the ["Troubleshooting" section of the FAQ](https://github.com/nahnotnathan/esde-android-app-covers/blob/main/FAQ.md?raw=false) if you run into issues.
+For most situations, this is the only step necessary. Check out the ["Troubleshooting" section of the FAQ](https://github.com/nahnotnathan/esde-android-app-covers/blob/main/FAQ.md) if you run into issues.
 
 ## Features
 - **High Quality Images:** Each cover is meticulously crafted and exported in near-lossless WEBP format offering excellent visual clarity and consistency across covers.
