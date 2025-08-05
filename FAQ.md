@@ -5,6 +5,7 @@
  - [Are the images included in this repository crowdsourced?](#faq-crowdsourcing)
  - [What are the image standards for Android covers?](#faq-banners)
  - [Why are images in this repository provided in WebP format?](#faq-webp)
+
 **Troubleshooting**
  - [None of the images are working. What did I do wrong?](#faq-ts-directory)
  - [I'm not seeing the right image for X application.](#faq-ts-wrong-image)
