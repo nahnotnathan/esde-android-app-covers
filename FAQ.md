@@ -42,7 +42,7 @@ A small (<5%) number of marquees were ported from the SteamGridDB project. Those
 
 <a name="faq-banners"></a>
 ### What are the image standards for Android covers?]
-Android apps do not have physical releases so much thought was put into which aspect ratio and resolution to use when creating Cover Art assets. The 1920x720 Banner standard was ultimately chosen because it shares the Aspect Ratio requirement of the Featured Image on Google Play and the Resolution Requirement of the TV Banner required for publishing to Android TV.
+Android apps do not have physical releases so much thought was put into which aspect ratio and resolution to use when creating Cover Art assets. The 1280x720 Banner standard was ultimately chosen because it shares the Aspect Ratio requirement of the Featured Image on Google Play and the Resolution Requirement of the TV Banner required for publishing to Android TV.
 
 The Steam Grid Capsule format was considered, but ultimately rejected for being too low resolution. Though certainly high enough resoultion for handhelds, it does not provide enough headroom for 4K and 8K displays in the future.
 
