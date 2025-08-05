@@ -13,7 +13,7 @@ To start using these covers, simply download the images you want and drop them i
 *Note: If you have renamed your app or game in ES-DE, you will have to rename the cover to the exact same filename, minus the extension.*
 
 ## Features
-- **High Quality Images:** Each cover is meticulously crafted and exported in Lossless PNG format offering excellent visual clarity and consistency across covers.
+- **High Quality Images:** Each cover is meticulously crafted and exported in near-lossless WEBP format offering excellent visual clarity and consistency across covers.
 - **Curated Collection:** Don't dig through mountains of Steam Grid trash. This collection has everything you need and nothing you don't
 - **Free to Use:** All covers in this repository are completely free for personal use.
 
@@ -27,6 +27,14 @@ Got a request? Happy to fulfill any reasonable requests from the community!  Jus
 Android apps do not have physical releases so much thought was put into which aspect ratio and resolution to use when creating these assets. The 1920x720 Banner standard was ultimately chosen because it shares the Aspect Ratio requirement of the Featured Image on Google Play and the Resolution Requirement of the TV Banner required for publishing to Android TV.
 
 The Steam Grid format was considered, but ultimately rejected for being too low resolution. Though certainly high enough resoultion for handhelds, it does not provide enough headroom for 4K and 8K displays in the future.
+
+## Why WebP?
+Image compression has advanced considerably since most game preservation projects started. Once an unproven format with low compatibility, WebP has grown to be the dominant standard for web based images due to its vastly superior compression algorithm and flexible implementation. With WebP, we are able to provide near-lossless image quality at at average 40% reduction in file size.
+
+For production, scrapable images we use the following settings to achieve maximum compression with minimal impact to visual fidelity:
+``` cwebp -mt -q 99 -z 9 -m 6 ```
+
+For archival purposes, lossless PNG copies of all artwork are preserved in the /src/ folder. 
 
 ## Acknowledgements
 This project is a labor of love born out of my belief that gaming on Android can and should be better. I would like to extend my heartfelt gratitude to the following contributors and community who make this hobby great:
